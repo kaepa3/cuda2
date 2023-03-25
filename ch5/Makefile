@@ -1,0 +1,2 @@
+build: cpu.cpp
+	clang $<
